@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "chokidar": "^3.5.3",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.0",
     "mockjs": "^1.1.0",
